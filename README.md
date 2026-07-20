@@ -2,6 +2,21 @@
 
 This repository contains my personal presentation framework.
 
-The goal is to keep every presentation visually consistent.
+Purpose:
+- Create premium presentations
+- Keep every presentation visually consistent
+- Follow one professional design language
+- Help AI tools generate presentations with the same quality every time
 
-All presentations should follow the rules inside this repository.
+Primary Style:
+- Apple simplicity
+- Stripe layouts
+- Tesla storytelling
+- Linear minimalism
+- Vercel typography
+
+Primary Colors:
+- Black
+- Purple
+- Emerald Green
+- White
